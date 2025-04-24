@@ -1,0 +1,14 @@
+{
+	"id": "sheepjoker",
+	"name": "The Sheep Joker Mod!",
+	"display_name": "",
+	"author": ["DrunkSatyr"],
+	"description": "This mod adds a sheep joker.",
+	"prefix": "sheepJoker",
+	"main_file": "sheep.lua",
+	"priority": 0,
+	"badge_colour": "#8B56A2",
+	"badge_text_colour": "#E0A20E",
+	"version": "0.0.0",
+	"dependencies": []
+} 
